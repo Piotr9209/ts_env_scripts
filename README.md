@@ -31,7 +31,7 @@ npm run start
 # info o strukturze taska do testów:
 ```javascript
 // __tests__/integration.test.ts - tutaj są testy integracyjne między funkcjonalnościami
-// __tests__/integration.test.ts - tutaj są testy integracyjne między funkcjonalnościami
+// __tests__/unit.test.ts - tutaj są testy jednostkowe pojedynczych funkcjonalności
 ```
 ```javascript
 // odpal środowisko testowe poprzez terminal:
