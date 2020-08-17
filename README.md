@@ -1,6 +1,7 @@
 # ts_env_scripts
 boilerplate z konfiguracją środowiska i testów do pisania zadań w typescript w Akademii Localhost
 
+[Akademia Localhost](https://academy.localhost-group.com/ "Stronka Akademii Localhost")
 
 ## aby zacząć pracę z repo:
 ```javascript
