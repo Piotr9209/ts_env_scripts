@@ -1,5 +1,5 @@
 # ts_env_scripts
-boilerplate z konfiguracją środowiska i testów do pisania zadań w typescript w Akademii Localhost
+boilerplate z konfiguracją środowiska i testów do pisania zadań w typescript dla studentów w Akademii Localhost
 
 [Akademia Localhost](https://academy.localhost-group.com/ "Stronka Akademii Localhost")
 
@@ -10,7 +10,7 @@ boilerplate z konfiguracją środowiska i testów do pisania zadań w typescript
 npm install
 ```
 
-# info o strukturze taska:
+## info o strukturze taska:
 ```javascript
 // app.ts - tutaj jest tworzona logika działania z taskiem
 // task.ts - tutaj jest tworzona logika taska
@@ -28,7 +28,7 @@ npm run start
 ```
 
 
-# info o strukturze taska do testów:
+## info o strukturze taska do testów:
 ```javascript
 // __tests__/integration.test.ts - tutaj są testy integracyjne między funkcjonalnościami
 // __tests__/unit.test.ts - tutaj są testy jednostkowe pojedynczych funkcjonalności
