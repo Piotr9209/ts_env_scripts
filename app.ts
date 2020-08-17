@@ -1,14 +1,3 @@
-import isTriangleRectangular from './task'
+import task1 from './task1'
 
-// example app
-function main(){
-    try{
-        const works = isTriangleRectangular(1,4,5)
-        console.log('works', works)
-    }
-    catch(err){
-        console.error(err.message)
-    }
-}
-
-main()
+task1()
